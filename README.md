@@ -1,2 +1,2 @@
 # Portal
-Wiki and misc files related to Temple's Portal world setting
+[Wiki](https://github.com/themadtinker/Portal/wiki) and misc files related to Temple's Portal world setting
